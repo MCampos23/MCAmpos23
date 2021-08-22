@@ -7,42 +7,11 @@
 
 ![image](https://user-images.githubusercontent.com/63472933/130363102-6482a681-c3b8-4a24-bde6-ad924d21f726.png)
 
-<ul class="list-inline list-icons">
-          <li class="list-inline-item">
-            <i class="devicons devicons-html5"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-css3"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-javascript"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-angular"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-jquery"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-sass"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-bootstrap"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-wordpress"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-npm"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-php"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="devicons devicons-github"></i>
-          </li>
-        </ul>
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
+<!-- in your body -->
+<i class="devicon-html5-plain"></i>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
