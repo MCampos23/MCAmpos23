@@ -7,11 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/63472933/130363102-6482a681-c3b8-4a24-bde6-ad924d21f726.png)
 
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+Lenguajes: </br>
+![icons8-html-5-48](https://user-images.githubusercontent.com/63472933/130366715-680d8d6a-c882-46de-8e3f-3a27da5d019a.png)
 
-<!-- in your body -->
-<i class="devicon-html5-plain"></i>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
