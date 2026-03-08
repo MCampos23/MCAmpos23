@@ -1,21 +1,36 @@
+# Hi, I'm Miguel Campos 👋
 
+### Full Stack Software Engineer | React & SQL Server Specialist
 
-![g-gif-update](https://user-images.githubusercontent.com/63472933/130620596-76cb0df2-4f5f-4ee6-b45b-c0f8d40875ea.gif)
+Results-oriented **Full Stack Developer** with a **C1 English level** and extensive experience building data-centric web applications. 
+Expert in architecting scalable back-end solutions and high-performance front-ends, with a specialized focus on **SQL Server optimization** and data integrity for complex technical environments.
 
-![g-gif-update (2)](https://user-images.githubusercontent.com/63472933/130620729-1b631d65-81d2-48a4-85cb-1404a929f243.gif)
+---
 
+### 🛠️ Tech Stack
 
+**Data & Backend**
+- SQL Server (T-SQL, Optimization, Stored Procedures)
+- Database Programming & Data Modeling (Conceptual, Logical, Physical)
+- Data Storage & Retrieval
 
+**Frontend**
+- React, JavaScript (ES6+), jQuery
+- HTML5, CSS3, SASS, Responsive Design
 
-<hr>
+**Tools & Others**
+- Artificial Intelligence Applied to Business
+- Agile Methodologies (Scrum) & Team Collaboration
+- Version Control (Git)
 
-![lenguajes y herramientas](https://user-images.githubusercontent.com/63472933/130618981-7fe75dc4-dce0-4cbc-901b-51dac67709dd.png)
+---
 
+### 📊 GitHub Stats
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCampos23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCampos23&layout=compact&theme=radical)
 
+---
 
-
-<hr>
-
-
-
-
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/miguel-campos-web-developer](https://www.linkedin.com/in/miguel-campos-web-developer)
+- **Email:** [camposvmiguelangel@gmail.com](mailto:camposvmiguelangel@gmail.com)
